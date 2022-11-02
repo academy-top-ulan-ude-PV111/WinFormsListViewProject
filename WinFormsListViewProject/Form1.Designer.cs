@@ -75,7 +75,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(481, 450);
+            this.ClientSize = new System.Drawing.Size(467, 450);
             this.Controls.Add(this.btnView);
             this.Controls.Add(this.txtPath);
             this.Controls.Add(this.lstViewDirectory);
